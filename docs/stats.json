@@ -1,9 +1,9 @@
 {
-  "hash": "17443acd75d613819a07",
+  "hash": "25e98569baf423035026",
   "version": "5.98.0",
-  "time": 6621,
-  "builtAt": 1750050093698,
-  "publicPath": "auto",
+  "time": 6348,
+  "builtAt": 1750050973667,
+  "publicPath": "/web-inter/",
   "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
   "assetsByChunkName": {
     "app~726e1b4d": [
@@ -230,7 +230,7 @@
     {
       "type": "asset",
       "name": "app~204074b0.bundle.js",
-      "size": 36562,
+      "size": 36572,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
@@ -241,7 +241,7 @@
           "license": "app~204074b0.bundle.js.LICENSE.txt",
           "sourceMap": "app~204074b0.bundle.js.map"
         },
-        "size": 36562
+        "size": 36572
       },
       "chunkNames": [
         "app~204074b0"
@@ -254,13 +254,13 @@
         {
           "type": "sourceMap",
           "name": "app~204074b0.bundle.js.map",
-          "size": 57861,
+          "size": 57873,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 57861
+            "size": 57873
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -1280,13 +1280,13 @@
     {
       "type": "asset",
       "name": "service-worker.js.map",
-      "size": 10580,
+      "size": 11002,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "minimized": true,
-        "size": 10580
+        "size": 11002
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1321,12 +1321,12 @@
     {
       "type": "asset",
       "name": "index.html",
-      "size": 4841,
+      "size": 5040,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
-        "size": 4841
+        "size": 5040
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1340,13 +1340,13 @@
     {
       "type": "asset",
       "name": "service-worker.js",
-      "size": 4561,
+      "size": 4979,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "minimized": true,
-        "size": 4561
+        "size": 4979
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1652,9 +1652,9 @@
       "initial": true,
       "entry": false,
       "recorded": false,
-      "size": 60032,
+      "size": 60042,
       "sizes": {
-        "javascript": 60032
+        "javascript": 60042
       },
       "names": [
         "app~204074b0"
@@ -1669,7 +1669,7 @@
       "auxiliaryFiles": [
         "app~204074b0.bundle.js.map"
       ],
-      "hash": "2ed462f34854fb4e533b",
+      "hash": "fafa44996770b01674e9",
       "childrenByOrder": {},
       "id": 227,
       "siblings": [
@@ -1849,9 +1849,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 20788,
+          "size": 20798,
           "sizes": {
-            "javascript": 20788
+            "javascript": 20798
           },
           "built": true,
           "codeGenerated": true,
@@ -4074,8 +4074,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddGuestStoryPresenter.js",
-          "issuerName": "./src/scripts/presenters/AddGuestStoryPresenter.js",
+          "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddStoryPresenter.js",
+          "issuerName": "./src/scripts/presenters/AddStoryPresenter.js",
           "issuerPath": [
             {
               "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\index.js",
@@ -4093,16 +4093,16 @@
               "id": null
             },
             {
-              "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddGuestStoryPresenter.js",
-              "name": "./src/scripts/presenters/AddGuestStoryPresenter.js",
-              "id": 421
+              "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddStoryPresenter.js",
+              "name": "./src/scripts/presenters/AddStoryPresenter.js",
+              "id": 299
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 216,
-          "issuerId": 421,
+          "issuerId": 299,
           "chunks": [
             450
           ],
@@ -7543,9 +7543,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 20788,
+      "size": 20798,
       "sizes": {
-        "javascript": 20788
+        "javascript": 20798
       },
       "built": true,
       "codeGenerated": true,
@@ -12343,8 +12343,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddGuestStoryPresenter.js",
-      "issuerName": "./src/scripts/presenters/AddGuestStoryPresenter.js",
+      "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddStoryPresenter.js",
+      "issuerName": "./src/scripts/presenters/AddStoryPresenter.js",
       "issuerPath": [
         {
           "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\index.js",
@@ -12362,16 +12362,16 @@
           "id": null
         },
         {
-          "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddGuestStoryPresenter.js",
-          "name": "./src/scripts/presenters/AddGuestStoryPresenter.js",
-          "id": 421
+          "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddStoryPresenter.js",
+          "name": "./src/scripts/presenters/AddStoryPresenter.js",
+          "id": 299
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 216,
-      "issuerId": 421,
+      "issuerId": 299,
       "chunks": [
         450
       ],
@@ -13199,7 +13199,7 @@
         },
         {
           "name": "app~204074b0.bundle.js",
-          "size": 36562
+          "size": 36572
         },
         {
           "name": "app~237d19e6.bundle.js",
@@ -13231,7 +13231,7 @@
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 436419,
+      "assetsSize": 436429,
       "auxiliaryAssets": [
         {
           "name": "app~065b194a.bundle.js.map",
@@ -13239,7 +13239,7 @@
         },
         {
           "name": "app~204074b0.bundle.js.map",
-          "size": 57861
+          "size": 57873
         },
         {
           "name": "app~2169f7db.bundle.js.map",
@@ -13303,7 +13303,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 685240,
+      "auxiliaryAssetsSize": 685252,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": true
@@ -13369,7 +13369,7 @@
         },
         {
           "name": "app~204074b0.bundle.js",
-          "size": 36562
+          "size": 36572
         },
         {
           "name": "app~237d19e6.bundle.js",
@@ -13401,7 +13401,7 @@
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 436419,
+      "assetsSize": 436429,
       "auxiliaryAssets": [
         {
           "name": "app~065b194a.bundle.js.map",
@@ -13409,7 +13409,7 @@
         },
         {
           "name": "app~204074b0.bundle.js.map",
-          "size": 57861
+          "size": 57873
         },
         {
           "name": "app~2169f7db.bundle.js.map",
@@ -13473,7 +13473,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 685240,
+      "auxiliaryAssetsSize": 685252,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": true
@@ -13495,10 +13495,10 @@
   "children": [
     {
       "name": "HtmlWebpackCompiler",
-      "hash": "1fbb5088948ef7a7ea09",
+      "hash": "f2b4bcf8f765b2dd0e7b",
       "version": "5.98.0",
-      "time": 87,
-      "builtAt": 1750050087201,
+      "time": 81,
+      "builtAt": 1750050967435,
       "publicPath": "",
       "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
       "assetsByChunkName": {},
@@ -13509,9 +13509,9 @@
           "initial": true,
           "entry": true,
           "recorded": false,
-          "size": 5656,
+          "size": 5668,
           "sizes": {
-            "javascript": 5163,
+            "javascript": 5175,
             "runtime": 493
           },
           "names": [
@@ -13523,7 +13523,7 @@
           ],
           "files": [],
           "auxiliaryFiles": [],
-          "hash": "fad03d3314f1c6b24c43",
+          "hash": "87e2c1ac4ac4b7d8781b",
           "childrenByOrder": {},
           "id": 190,
           "siblings": [],
@@ -13534,9 +13534,9 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 5086,
+              "size": 5098,
               "sizes": {
-                "javascript": 5086
+                "javascript": 5098
               },
               "built": true,
               "codeGenerated": true,
@@ -13864,9 +13864,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 5086,
+          "size": 5098,
           "sizes": {
-            "javascript": 5086
+            "javascript": 5098
           },
           "built": true,
           "codeGenerated": true,
