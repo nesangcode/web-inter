@@ -1,8 +1,8 @@
 {
   "hash": "2a354d4d02992d0c3e12",
   "version": "5.98.0",
-  "time": 5762,
-  "builtAt": 1750060680962,
+  "time": 6054,
+  "builtAt": 1750060817253,
   "publicPath": "auto",
   "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
   "assetsByChunkName": {
@@ -1469,13 +1469,13 @@
     {
       "type": "asset",
       "name": "service-worker.js.map",
-      "size": 11954,
+      "size": 11757,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "minimized": true,
-        "size": 11954
+        "size": 11757
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1510,13 +1510,13 @@
     {
       "type": "asset",
       "name": "service-worker.js",
-      "size": 5254,
+      "size": 5176,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "minimized": true,
-        "size": 5254
+        "size": 5176
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -13669,8 +13669,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "f2b4bcf8f765b2dd0e7b",
       "version": "5.98.0",
-      "time": 78,
-      "builtAt": 1750060675309,
+      "time": 71,
+      "builtAt": 1750060811299,
       "publicPath": "",
       "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
       "assetsByChunkName": {},
