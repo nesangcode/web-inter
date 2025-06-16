@@ -1,8 +1,8 @@
 {
   "hash": "25e98569baf423035026",
   "version": "5.98.0",
-  "time": 6348,
-  "builtAt": 1750050973667,
+  "time": 6253,
+  "builtAt": 1750051279664,
   "publicPath": "/web-inter/",
   "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
   "assetsByChunkName": {
@@ -1280,13 +1280,13 @@
     {
       "type": "asset",
       "name": "service-worker.js.map",
-      "size": 11002,
+      "size": 10881,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "minimized": true,
-        "size": 11002
+        "size": 10881
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1340,13 +1340,13 @@
     {
       "type": "asset",
       "name": "service-worker.js",
-      "size": 4979,
+      "size": 4920,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "minimized": true,
-        "size": 4979
+        "size": 4920
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1368,28 +1368,6 @@
         "copied": true,
         "sourceFilename": "src/public/404.html",
         "size": 3327
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "related": [],
-      "chunks": [],
-      "auxiliaryChunks": [],
-      "isOverSizeLimit": false
-    },
-    {
-      "type": "asset",
-      "name": "sw.js",
-      "size": 3325,
-      "emitted": true,
-      "comparedForEmit": false,
-      "cached": false,
-      "info": {
-        "copied": true,
-        "sourceFilename": "src/public/sw.js",
-        "minimized": true,
-        "size": 3325
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -4074,8 +4052,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddStoryPresenter.js",
-          "issuerName": "./src/scripts/presenters/AddStoryPresenter.js",
+          "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddGuestStoryPresenter.js",
+          "issuerName": "./src/scripts/presenters/AddGuestStoryPresenter.js",
           "issuerPath": [
             {
               "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\index.js",
@@ -4093,16 +4071,16 @@
               "id": null
             },
             {
-              "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddStoryPresenter.js",
-              "name": "./src/scripts/presenters/AddStoryPresenter.js",
-              "id": 299
+              "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddGuestStoryPresenter.js",
+              "name": "./src/scripts/presenters/AddGuestStoryPresenter.js",
+              "id": 421
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 216,
-          "issuerId": 299,
+          "issuerId": 421,
           "chunks": [
             450
           ],
@@ -12343,8 +12321,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddStoryPresenter.js",
-      "issuerName": "./src/scripts/presenters/AddStoryPresenter.js",
+      "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddGuestStoryPresenter.js",
+      "issuerName": "./src/scripts/presenters/AddGuestStoryPresenter.js",
       "issuerPath": [
         {
           "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\index.js",
@@ -12362,16 +12340,16 @@
           "id": null
         },
         {
-          "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddStoryPresenter.js",
-          "name": "./src/scripts/presenters/AddStoryPresenter.js",
-          "id": 299
+          "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddGuestStoryPresenter.js",
+          "name": "./src/scripts/presenters/AddGuestStoryPresenter.js",
+          "id": 421
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 216,
-      "issuerId": 299,
+      "issuerId": 421,
       "chunks": [
         450
       ],
@@ -13497,8 +13475,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "f2b4bcf8f765b2dd0e7b",
       "version": "5.98.0",
-      "time": 81,
-      "builtAt": 1750050967435,
+      "time": 92,
+      "builtAt": 1750051273533,
       "publicPath": "",
       "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
       "assetsByChunkName": {},
