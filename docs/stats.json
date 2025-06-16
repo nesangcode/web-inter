@@ -1,8 +1,8 @@
 {
-  "hash": "ce37dd965838b8153af3",
+  "hash": "2a354d4d02992d0c3e12",
   "version": "5.98.0",
-  "time": 6431,
-  "builtAt": 1750059335349,
+  "time": 5756,
+  "builtAt": 1750060410099,
   "publicPath": "auto",
   "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
   "assetsByChunkName": {
@@ -1352,7 +1352,7 @@
     {
       "type": "asset",
       "name": "app~49ea73a0.bundle.js",
-      "size": 14418,
+      "size": 14380,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
@@ -1363,7 +1363,7 @@
           "license": "app~49ea73a0.bundle.js.LICENSE.txt",
           "sourceMap": "app~49ea73a0.bundle.js.map"
         },
-        "size": 14418
+        "size": 14380
       },
       "chunkNames": [
         "app~49ea73a0"
@@ -1376,13 +1376,13 @@
         {
           "type": "sourceMap",
           "name": "app~49ea73a0.bundle.js.map",
-          "size": 24974,
+          "size": 24821,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 24974
+            "size": 24821
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -1448,13 +1448,13 @@
     {
       "type": "asset",
       "name": "service-worker.js.map",
-      "size": 12027,
+      "size": 12059,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "minimized": true,
-        "size": 12027
+        "size": 12059
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1510,13 +1510,13 @@
     {
       "type": "asset",
       "name": "service-worker.js",
-      "size": 5269,
+      "size": 5299,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "minimized": true,
-        "size": 5269
+        "size": 5299
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -2627,9 +2627,9 @@
       "initial": true,
       "entry": false,
       "recorded": false,
-      "size": 24552,
+      "size": 24460,
       "sizes": {
-        "javascript": 24552
+        "javascript": 24460
       },
       "names": [
         "app~49ea73a0"
@@ -2644,7 +2644,7 @@
       "auxiliaryFiles": [
         "app~49ea73a0.bundle.js.map"
       ],
-      "hash": "2bd653b75cb3bc4790f8",
+      "hash": "118898fd914a9c4621e3",
       "childrenByOrder": {},
       "id": 324,
       "siblings": [
@@ -2870,9 +2870,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 24353,
+          "size": 24261,
           "sizes": {
-            "javascript": 24353
+            "javascript": 24261
           },
           "built": true,
           "codeGenerated": true,
@@ -8843,9 +8843,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 24353,
+      "size": 24261,
       "sizes": {
-        "javascript": 24353
+        "javascript": 24261
       },
       "built": true,
       "codeGenerated": true,
@@ -13331,7 +13331,7 @@
       "assets": [
         {
           "name": "app~49ea73a0.bundle.js",
-          "size": 14418
+          "size": 14380
         },
         {
           "name": "app~71c0e426.bundle.js",
@@ -13399,7 +13399,7 @@
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 435848,
+      "assetsSize": 435810,
       "auxiliaryAssets": [
         {
           "name": "app~065b194a.bundle.js.map",
@@ -13419,7 +13419,7 @@
         },
         {
           "name": "app~49ea73a0.bundle.js.map",
-          "size": 24974
+          "size": 24821
         },
         {
           "name": "app~573a6517.bundle.js.map",
@@ -13471,7 +13471,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 684669,
+      "auxiliaryAssetsSize": 684516,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": true
@@ -13501,7 +13501,7 @@
       "assets": [
         {
           "name": "app~49ea73a0.bundle.js",
-          "size": 14418
+          "size": 14380
         },
         {
           "name": "app~71c0e426.bundle.js",
@@ -13569,7 +13569,7 @@
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 435848,
+      "assetsSize": 435810,
       "auxiliaryAssets": [
         {
           "name": "app~065b194a.bundle.js.map",
@@ -13589,7 +13589,7 @@
         },
         {
           "name": "app~49ea73a0.bundle.js.map",
-          "size": 24974
+          "size": 24821
         },
         {
           "name": "app~573a6517.bundle.js.map",
@@ -13641,7 +13641,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 684669,
+      "auxiliaryAssetsSize": 684516,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": true
@@ -13669,8 +13669,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "f2b4bcf8f765b2dd0e7b",
       "version": "5.98.0",
-      "time": 76,
-      "builtAt": 1750059329023,
+      "time": 70,
+      "builtAt": 1750060404441,
       "publicPath": "",
       "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
       "assetsByChunkName": {},
