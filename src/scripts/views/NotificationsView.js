@@ -17,7 +17,6 @@ class NotificationsView {
           <div class="notification-card">
             <div class="notification-info">
               <h2>Push Notifications</h2>
-              <p>Dapatkan notifikasi ketika ada story baru yang dibagikan oleh pengguna lain.</p>
             </div>
             
             <div class="notification-status" id="notification-status">
@@ -44,16 +43,7 @@ class NotificationsView {
               <button id="retry-btn" class="btn btn-outline">Coba Lagi</button>
             </div>
           </div>
-          
-          <div class="notification-info-card">
-            <h3>Tentang Push Notifications</h3>
-            <ul>
-              <li>Notifikasi akan muncul meskipun aplikasi tidak sedang dibuka</li>
-              <li>Anda dapat mengatur izin notifikasi melalui pengaturan browser</li>
-              <li>Notifikasi hanya akan dikirim untuk story baru yang relevan</li>
-              <li>Anda dapat menonaktifkan notifikasi kapan saja</li>
-            </ul>
-          </div>
+      
         </div>
       </div>
     `;

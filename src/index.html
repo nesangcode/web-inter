@@ -96,7 +96,7 @@
         window.addEventListener('load', () => {
           // Delay SW registration to prioritize app loading
           setTimeout(() => {
-            navigator.serviceWorker.register('./sw.js')
+            navigator.serviceWorker.register('./service-worker.js')
               .then(registration => {
                 console.log('Service Worker registered successfully:', registration.scope);
                 

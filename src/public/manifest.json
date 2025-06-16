@@ -2,24 +2,24 @@
   "name": "Dicoding Stories",
   "short_name": "Stories",
   "description": "Platform berbagi cerita perjalanan belajar di Dicoding",
-  "start_url": "/",
+  "start_url": "/web-inter",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#6366f1",
   "orientation": "portrait-primary",
-  "scope": "/",
+  "scope": "/web-inter",
   "icons": [
     {
-      "src": "favicon.png",
-      "sizes": "40x40",
+      "src": "/web-inter/web-app-manifest-192x192.png",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "favicon.png",
-      "sizes": "40x40",
+      "src": "/web-inter/web-app-manifest-512x512.png",
+      "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ],
   "categories": ["education", "social"],
@@ -30,11 +30,11 @@
       "name": "Tambah Story",
       "short_name": "Add Story",
       "description": "Tambah story baru",
-      "url": "/#/add-story",
+      "url": "/web-inter/#/add-story",
       "icons": [
         {
-          "src": "favicon.png",
-          "sizes": "40x40",
+          "src": "web-app-manifest-192x192.png",
+          "sizes": "192x192",
           "type": "image/png"
         }
       ]
@@ -42,16 +42,16 @@
   ],
   "screenshots": [
     {
-      "src": "favicon.png",
-      "sizes": "40x40",
-      "type": "image/png",
+      "src": "ss-1920x1080.jpg",
+      "sizes": "1920x1080",
+      "type": "image/jpeg",
       "form_factor": "wide",
       "label": "Desktop view of Dicoding Stories"
     },
     {
-      "src": "favicon.png",
-      "sizes": "40x40",
-      "type": "image/png",
+      "src": "ss-750x1334.jpg",
+      "sizes": "750x1334",
+      "type": "image/jpeg",
       "form_factor": "narrow",
       "label": "Mobile view of Dicoding Stories"
     }

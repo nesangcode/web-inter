@@ -47,7 +47,7 @@ export class HomeView {
             ${user && user.name ? `
               <div class="view-toggle" role="group" aria-label="Pilihan tampilan stories">
                 <button id="grid-view-btn" class="btn btn-small active" aria-label="Tampilan grid" aria-pressed="true">📋</button>
-                <button id="map-view-btn" class="btn btn-small" aria-label="Tampilan peta" aria-pressed="false">🗺️</button>
+                ${!isOffline ? `<button id="map-view-btn" class="btn btn-small" aria-label="Tampilan peta" aria-pressed="false">🗺️</button>` : ''}
               </div>
             ` : ''}
           </header>

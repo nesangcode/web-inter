@@ -101,8 +101,11 @@ module.exports = merge(common, {
           },
         },
       ],
-      navigateFallback: '/index.html',
-      navigateFallbackDenylist: [/^\/_/, /\/[^/?]+\.[^/]+$/],
+      navigateFallback: '/404.html',
+      navigateFallbackAllowlist: [/^(?!\/api).*/], // Allow all except API routes
+      navigateFallbackDenylist: [/\.[^/]+$/], // Deny requests for files with extensions
+      // Import custom service worker code for push notifications
+      importScripts: ['./sw-custom.js']
     })
   ],
 });

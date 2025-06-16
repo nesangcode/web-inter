@@ -211,8 +211,6 @@ export async function subscribeToNotifications(subscription) {
       body: JSON.stringify({
         endpoint: subscription.endpoint,
         keys: subscription.keys,
-        p256dh: subscription.keys.p256dh,
-        auth: subscription.keys.auth,
       }),
     });
     

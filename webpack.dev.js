@@ -40,6 +40,12 @@ module.exports = merge(common, {
       reconnect: 3,
     },
     compress: true,
-    historyApiFallback: true,
+    historyApiFallback: {
+      rewrites: [
+        // Serve 404.html for all unmatched routes
+        { from: /.*/, to: '/404.html' }
+      ],
+      disableDotRule: true
+    },
   },
 });
