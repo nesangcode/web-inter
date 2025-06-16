@@ -10,14 +10,16 @@
   "scope": "/web-inter",
   "icons": [
     {
-      "src": "favicon.jpg",
-      "sizes": "700x700",
-      "type": "image/png"
+      "src": "/web-inter/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
     },
     {
-      "src": "favicon.jpg",
-      "sizes": "700x700",
-      "type": "image/png"
+      "src": "/web-inter/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ],
   "categories": ["education", "social"],
@@ -31,25 +33,25 @@
       "url": "/#/add-story",
       "icons": [
         {
-          "src": "favicon.jpg",
-          "sizes": "700x700",
-          "type": "image/png"
+          "src": "web-app-manifest-192x192.png",
+          "sizes": "192x192",
+          "type": "image/jpeg"
         }
       ]
     }
   ],
   "screenshots": [
     {
-      "src": "favicon.jpg",
-      "sizes": "700x700",
-      "type": "image/png",
+      "src": "ss-1920x1080.jpg",
+      "sizes": "1920x1080",
+      "type": "image/jpeg",
       "form_factor": "wide",
       "label": "Desktop view of Dicoding Stories"
     },
     {
       "src": "favicon.jpg",
-      "sizes": "700x700",
-      "type": "image/png",
+      "sizes": "750x1334",
+      "type": "image/jpeg",
       "form_factor": "narrow",
       "label": "Mobile view of Dicoding Stories"
     }
