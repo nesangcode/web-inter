@@ -1,14 +1,14 @@
 {
-  "hash": "25e98569baf423035026",
+  "hash": "ce37dd965838b8153af3",
   "version": "5.98.0",
-  "time": 5827,
-  "builtAt": 1750053868927,
-  "publicPath": "/web-inter/",
+  "time": 6431,
+  "builtAt": 1750059335349,
+  "publicPath": "auto",
   "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
   "assetsByChunkName": {
     "app~726e1b4d": [
       "app~726e1b4d.bundle.js",
-      "app~726e1b4d.ea79e1ca539bf53b9f63.css"
+      "app~726e1b4d.6bb8967b75009410d34c.css"
     ],
     "app~49ea73a0": [
       "app~49ea73a0.bundle.js"
@@ -655,19 +655,19 @@
     },
     {
       "type": "asset",
-      "name": "app~726e1b4d.ea79e1ca539bf53b9f63.css",
-      "size": 28862,
+      "name": "app~726e1b4d.6bb8967b75009410d34c.css",
+      "size": 28863,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "contenthash": "ea79e1ca539bf53b9f63",
+        "contenthash": "6bb8967b75009410d34c",
         "minimized": true,
         "related": {
-          "sourceMap": "app~726e1b4d.ea79e1ca539bf53b9f63.css.map"
+          "sourceMap": "app~726e1b4d.6bb8967b75009410d34c.css.map"
         },
-        "size": 28862
+        "size": 28863
       },
       "chunkNames": [
         "app~726e1b4d"
@@ -679,14 +679,14 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "app~726e1b4d.ea79e1ca539bf53b9f63.css.map",
-          "size": 56218,
+          "name": "app~726e1b4d.6bb8967b75009410d34c.css.map",
+          "size": 56219,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 56218
+            "size": 56219
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -785,81 +785,6 @@
     },
     {
       "type": "asset",
-      "name": "app~a5a596c2.bundle.js",
-      "size": 25407,
-      "emitted": true,
-      "comparedForEmit": false,
-      "cached": false,
-      "info": {
-        "javascriptModule": false,
-        "minimized": true,
-        "related": {
-          "license": "app~a5a596c2.bundle.js.LICENSE.txt",
-          "sourceMap": "app~a5a596c2.bundle.js.map"
-        },
-        "size": 25407
-      },
-      "chunkNames": [
-        "app~a5a596c2"
-      ],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "filteredRelated": 0,
-      "related": [
-        {
-          "type": "sourceMap",
-          "name": "app~a5a596c2.bundle.js.map",
-          "size": 36140,
-          "emitted": true,
-          "comparedForEmit": false,
-          "cached": false,
-          "info": {
-            "development": true,
-            "size": 36140
-          },
-          "chunkNames": [],
-          "chunkIdHints": [],
-          "auxiliaryChunkNames": [
-            "app~a5a596c2"
-          ],
-          "auxiliaryChunkIdHints": [],
-          "related": [],
-          "chunks": [],
-          "auxiliaryChunks": [
-            232
-          ],
-          "isOverSizeLimit": false
-        },
-        {
-          "type": "license",
-          "name": "app~a5a596c2.bundle.js.LICENSE.txt",
-          "size": 149,
-          "emitted": true,
-          "comparedForEmit": false,
-          "cached": false,
-          "info": {
-            "extractedComments": true,
-            "size": 149
-          },
-          "chunkNames": [],
-          "chunkIdHints": [],
-          "auxiliaryChunkNames": [],
-          "auxiliaryChunkIdHints": [],
-          "related": [],
-          "chunks": [],
-          "auxiliaryChunks": [],
-          "isOverSizeLimit": false
-        }
-      ],
-      "chunks": [
-        232
-      ],
-      "auxiliaryChunks": [],
-      "isOverSizeLimit": false
-    },
-    {
-      "type": "asset",
       "name": "app~2169f7db.bundle.js",
       "size": 25101,
       "emitted": true,
@@ -929,6 +854,81 @@
       ],
       "chunks": [
         953
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "app~a5a596c2.bundle.js",
+      "size": 24825,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "app~a5a596c2.bundle.js.LICENSE.txt",
+          "sourceMap": "app~a5a596c2.bundle.js.map"
+        },
+        "size": 24825
+      },
+      "chunkNames": [
+        "app~a5a596c2"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "sourceMap",
+          "name": "app~a5a596c2.bundle.js.map",
+          "size": 35556,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "development": true,
+            "size": 35556
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [
+            "app~a5a596c2"
+          ],
+          "auxiliaryChunkIdHints": [],
+          "related": [],
+          "chunks": [],
+          "auxiliaryChunks": [
+            232
+          ],
+          "isOverSizeLimit": false
+        },
+        {
+          "type": "license",
+          "name": "app~a5a596c2.bundle.js.LICENSE.txt",
+          "size": 149,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "extractedComments": true,
+            "size": 149
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [],
+          "related": [],
+          "chunks": [],
+          "auxiliaryChunks": [],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        232
       ],
       "auxiliaryChunks": [],
       "isOverSizeLimit": false
@@ -1448,13 +1448,13 @@
     {
       "type": "asset",
       "name": "service-worker.js.map",
-      "size": 12039,
+      "size": 12027,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "minimized": true,
-        "size": 12039
+        "size": 12027
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1510,13 +1510,13 @@
     {
       "type": "asset",
       "name": "service-worker.js",
-      "size": 5574,
+      "size": 5269,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "minimized": true,
-        "size": 5574
+        "size": 5269
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1530,12 +1530,12 @@
     {
       "type": "asset",
       "name": "index.html",
-      "size": 5040,
+      "size": 4853,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
-        "size": 5040
+        "size": 4853
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1549,14 +1549,14 @@
     {
       "type": "asset",
       "name": "404.html",
-      "size": 3327,
+      "size": 3081,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "copied": true,
         "sourceFilename": "src/public/404.html",
-        "size": 3327
+        "size": 3081
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1639,6 +1639,28 @@
       "chunks": [
         567
       ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "sw-custom.js",
+      "size": 748,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "copied": true,
+        "sourceFilename": "src/public/sw-custom.js",
+        "minimized": true,
+        "size": 748
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": [],
+      "chunks": [],
       "auxiliaryChunks": [],
       "isOverSizeLimit": false
     }
@@ -2369,9 +2391,9 @@
       "initial": true,
       "entry": false,
       "recorded": false,
-      "size": 36664,
+      "size": 36080,
       "sizes": {
-        "javascript": 36664
+        "javascript": 36080
       },
       "names": [
         "app~a5a596c2"
@@ -2386,7 +2408,7 @@
       "auxiliaryFiles": [
         "app~a5a596c2.bundle.js.map"
       ],
-      "hash": "b51390b51c9ed7500d65",
+      "hash": "236bccc9d1c808cb0569",
       "childrenByOrder": {},
       "id": 232,
       "siblings": [
@@ -2503,9 +2525,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 19448,
+          "size": 18864,
           "sizes": {
-            "javascript": 19448
+            "javascript": 18864
           },
           "built": true,
           "codeGenerated": true,
@@ -5246,9 +5268,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 42524,
+      "size": 42525,
       "sizes": {
-        "css/mini-extract": 39640,
+        "css/mini-extract": 39641,
         "runtime": 2884
       },
       "names": [
@@ -5260,13 +5282,13 @@
       ],
       "files": [
         "app~726e1b4d.bundle.js",
-        "app~726e1b4d.ea79e1ca539bf53b9f63.css"
+        "app~726e1b4d.6bb8967b75009410d34c.css"
       ],
       "auxiliaryFiles": [
-        "app~726e1b4d.bundle.js.map",
-        "app~726e1b4d.ea79e1ca539bf53b9f63.css.map"
+        "app~726e1b4d.6bb8967b75009410d34c.css.map",
+        "app~726e1b4d.bundle.js.map"
       ],
-      "hash": "cccec720f5f313e50bcf",
+      "hash": "a68db32390b17e38a64c",
       "childrenByOrder": {},
       "id": 567,
       "siblings": [
@@ -5359,9 +5381,9 @@
         {
           "type": "module",
           "moduleType": "css/mini-extract",
-          "size": 30873,
+          "size": 30874,
           "sizes": {
-            "css/mini-extract": 30873
+            "css/mini-extract": 30874
           },
           "built": true,
           "codeGenerated": true,
@@ -8254,9 +8276,9 @@
     {
       "type": "module",
       "moduleType": "css/mini-extract",
-      "size": 30873,
+      "size": 30874,
       "sizes": {
-        "css/mini-extract": 30873
+        "css/mini-extract": 30874
       },
       "built": true,
       "codeGenerated": true,
@@ -11728,9 +11750,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 19448,
+      "size": 18864,
       "sizes": {
-        "javascript": 19448
+        "javascript": 18864
       },
       "built": true,
       "codeGenerated": true,
@@ -12681,9 +12703,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 77965,
+      "size": 77968,
       "sizes": {
-        "javascript": 77965
+        "javascript": 77968
       },
       "built": true,
       "codeGenerated": true,
@@ -13361,7 +13383,7 @@
         },
         {
           "name": "app~a5a596c2.bundle.js",
-          "size": 25407
+          "size": 24825
         },
         {
           "name": "app~759c4a18.bundle.js",
@@ -13372,12 +13394,12 @@
           "size": 1199
         },
         {
-          "name": "app~726e1b4d.ea79e1ca539bf53b9f63.css",
-          "size": 28862
+          "name": "app~726e1b4d.6bb8967b75009410d34c.css",
+          "size": 28863
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 436429,
+      "assetsSize": 435848,
       "auxiliaryAssets": [
         {
           "name": "app~065b194a.bundle.js.map",
@@ -13408,12 +13430,12 @@
           "size": 39677
         },
         {
-          "name": "app~726e1b4d.bundle.js.map",
-          "size": 7357
+          "name": "app~726e1b4d.6bb8967b75009410d34c.css.map",
+          "size": 56219
         },
         {
-          "name": "app~726e1b4d.ea79e1ca539bf53b9f63.css.map",
-          "size": 56218
+          "name": "app~726e1b4d.bundle.js.map",
+          "size": 7357
         },
         {
           "name": "app~759c4a18.bundle.js.map",
@@ -13429,7 +13451,7 @@
         },
         {
           "name": "app~a5a596c2.bundle.js.map",
-          "size": 36140
+          "size": 35556
         },
         {
           "name": "app~a7527d50.bundle.js.map",
@@ -13449,7 +13471,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 685252,
+      "auxiliaryAssetsSize": 684669,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": true
@@ -13531,7 +13553,7 @@
         },
         {
           "name": "app~a5a596c2.bundle.js",
-          "size": 25407
+          "size": 24825
         },
         {
           "name": "app~759c4a18.bundle.js",
@@ -13542,12 +13564,12 @@
           "size": 1199
         },
         {
-          "name": "app~726e1b4d.ea79e1ca539bf53b9f63.css",
-          "size": 28862
+          "name": "app~726e1b4d.6bb8967b75009410d34c.css",
+          "size": 28863
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 436429,
+      "assetsSize": 435848,
       "auxiliaryAssets": [
         {
           "name": "app~065b194a.bundle.js.map",
@@ -13578,12 +13600,12 @@
           "size": 39677
         },
         {
-          "name": "app~726e1b4d.bundle.js.map",
-          "size": 7357
+          "name": "app~726e1b4d.6bb8967b75009410d34c.css.map",
+          "size": 56219
         },
         {
-          "name": "app~726e1b4d.ea79e1ca539bf53b9f63.css.map",
-          "size": 56218
+          "name": "app~726e1b4d.bundle.js.map",
+          "size": 7357
         },
         {
           "name": "app~759c4a18.bundle.js.map",
@@ -13599,7 +13621,7 @@
         },
         {
           "name": "app~a5a596c2.bundle.js.map",
-          "size": 36140
+          "size": 35556
         },
         {
           "name": "app~a7527d50.bundle.js.map",
@@ -13619,7 +13641,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 685252,
+      "auxiliaryAssetsSize": 684669,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": true
@@ -13633,8 +13655,8 @@
       "stack": "AssetsOverSizeLimitWarning: asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  ss-1920x1080.jpg (379 KiB)\n  ss-750x1334.jpg (290 KiB)\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\webpack\\lib\\performance\\SizeLimitsPlugin.js:145:7\n    at Hook.eval [as callAsync] (eval at create (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\tapable\\lib\\Hook.js:18:14)\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\webpack\\lib\\Compiler.js:1006:27\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\neo-async\\async.js:2818:7\n    at done (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\neo-async\\async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\webpack\\lib\\Compiler.js:835:33\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\graceful-fs\\graceful-fs.js:143:16\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\graceful-fs\\graceful-fs.js:61:14\n    at FSReqCallback.oncomplete (node:fs:188:23)"
     },
     {
-      "message": "entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.\nEntrypoints:\n  app (426 KiB)\n      app~49ea73a0.bundle.js\n      app~71c0e426.bundle.js\n      app~a7527d50.bundle.js\n      app~9fde37ce.bundle.js\n      app~2169f7db.bundle.js\n      app~573a6517.bundle.js\n      app~c673db3e.bundle.js\n      app~b6ab853d.bundle.js\n      app~065b194a.bundle.js\n      app~204074b0.bundle.js\n      app~237d19e6.bundle.js\n      app~bc85f0ca.bundle.js\n      app~8f54dbf9.bundle.js\n      app~a5a596c2.bundle.js\n      app~759c4a18.bundle.js\n      app~726e1b4d.bundle.js\n      app~726e1b4d.ea79e1ca539bf53b9f63.css\n",
-      "stack": "EntrypointsOverSizeLimitWarning: entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.\nEntrypoints:\n  app (426 KiB)\n      app~49ea73a0.bundle.js\n      app~71c0e426.bundle.js\n      app~a7527d50.bundle.js\n      app~9fde37ce.bundle.js\n      app~2169f7db.bundle.js\n      app~573a6517.bundle.js\n      app~c673db3e.bundle.js\n      app~b6ab853d.bundle.js\n      app~065b194a.bundle.js\n      app~204074b0.bundle.js\n      app~237d19e6.bundle.js\n      app~bc85f0ca.bundle.js\n      app~8f54dbf9.bundle.js\n      app~a5a596c2.bundle.js\n      app~759c4a18.bundle.js\n      app~726e1b4d.bundle.js\n      app~726e1b4d.ea79e1ca539bf53b9f63.css\n\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\webpack\\lib\\performance\\SizeLimitsPlugin.js:153:7\n    at Hook.eval [as callAsync] (eval at create (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\tapable\\lib\\Hook.js:18:14)\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\webpack\\lib\\Compiler.js:1006:27\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\neo-async\\async.js:2818:7\n    at done (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\neo-async\\async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\webpack\\lib\\Compiler.js:835:33\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\graceful-fs\\graceful-fs.js:143:16\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\graceful-fs\\graceful-fs.js:61:14\n    at FSReqCallback.oncomplete (node:fs:188:23)"
+      "message": "entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.\nEntrypoints:\n  app (426 KiB)\n      app~49ea73a0.bundle.js\n      app~71c0e426.bundle.js\n      app~a7527d50.bundle.js\n      app~9fde37ce.bundle.js\n      app~2169f7db.bundle.js\n      app~573a6517.bundle.js\n      app~c673db3e.bundle.js\n      app~b6ab853d.bundle.js\n      app~065b194a.bundle.js\n      app~204074b0.bundle.js\n      app~237d19e6.bundle.js\n      app~bc85f0ca.bundle.js\n      app~8f54dbf9.bundle.js\n      app~a5a596c2.bundle.js\n      app~759c4a18.bundle.js\n      app~726e1b4d.bundle.js\n      app~726e1b4d.6bb8967b75009410d34c.css\n",
+      "stack": "EntrypointsOverSizeLimitWarning: entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.\nEntrypoints:\n  app (426 KiB)\n      app~49ea73a0.bundle.js\n      app~71c0e426.bundle.js\n      app~a7527d50.bundle.js\n      app~9fde37ce.bundle.js\n      app~2169f7db.bundle.js\n      app~573a6517.bundle.js\n      app~c673db3e.bundle.js\n      app~b6ab853d.bundle.js\n      app~065b194a.bundle.js\n      app~204074b0.bundle.js\n      app~237d19e6.bundle.js\n      app~bc85f0ca.bundle.js\n      app~8f54dbf9.bundle.js\n      app~a5a596c2.bundle.js\n      app~759c4a18.bundle.js\n      app~726e1b4d.bundle.js\n      app~726e1b4d.6bb8967b75009410d34c.css\n\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\webpack\\lib\\performance\\SizeLimitsPlugin.js:153:7\n    at Hook.eval [as callAsync] (eval at create (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\tapable\\lib\\Hook.js:18:14)\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\webpack\\lib\\Compiler.js:1006:27\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\neo-async\\async.js:2818:7\n    at done (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\neo-async\\async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\webpack\\lib\\Compiler.js:835:33\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\graceful-fs\\graceful-fs.js:143:16\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\graceful-fs\\graceful-fs.js:61:14\n    at FSReqCallback.oncomplete (node:fs:188:23)"
     },
     {
       "message": "webpack performance recommendations: \nYou can limit the size of your bundles by using import() or require.ensure to lazy load some parts of your application.\nFor more info visit https://webpack.js.org/guides/code-splitting/",
@@ -13647,8 +13669,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "f2b4bcf8f765b2dd0e7b",
       "version": "5.98.0",
-      "time": 74,
-      "builtAt": 1750053863205,
+      "time": 76,
+      "builtAt": 1750059329023,
       "publicPath": "",
       "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
       "assetsByChunkName": {},
