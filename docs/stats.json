@@ -1,8 +1,8 @@
 {
   "hash": "25e98569baf423035026",
   "version": "5.98.0",
-  "time": 6182,
-  "builtAt": 1750053067601,
+  "time": 6659,
+  "builtAt": 1750053204587,
   "publicPath": "/web-inter/",
   "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
   "assetsByChunkName": {
@@ -59,14 +59,14 @@
   "assets": [
     {
       "type": "asset",
-      "name": "ss-1920x1080.png",
+      "name": "ss-1920x1080.jpg",
       "size": 387617,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "copied": true,
-        "sourceFilename": "src/public/ss-1920x1080.png",
+        "sourceFilename": "src/public/ss-1920x1080.jpg",
         "size": 387617
       },
       "chunkNames": [],
@@ -80,14 +80,14 @@
     },
     {
       "type": "asset",
-      "name": "ss-750x1334.png",
+      "name": "ss-750x1334.jpg",
       "size": 297127,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "copied": true,
-        "sourceFilename": "src/public/ss-750x1334.png",
+        "sourceFilename": "src/public/ss-750x1334.jpg",
         "size": 297127
       },
       "chunkNames": [],
@@ -142,14 +142,14 @@
     },
     {
       "type": "asset",
-      "name": "favicon.jpg",
+      "name": "favicon.png",
       "size": 105159,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "copied": true,
-        "sourceFilename": "src/public/favicon.jpg",
+        "sourceFilename": "src/public/favicon.png",
         "size": 105159
       },
       "chunkNames": [],
@@ -13608,8 +13608,8 @@
   "errorsCount": 0,
   "warnings": [
     {
-      "message": "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  ss-1920x1080.png (379 KiB)\n  ss-750x1334.png (290 KiB)",
-      "stack": "AssetsOverSizeLimitWarning: asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  ss-1920x1080.png (379 KiB)\n  ss-750x1334.png (290 KiB)\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\webpack\\lib\\performance\\SizeLimitsPlugin.js:145:7\n    at Hook.eval [as callAsync] (eval at create (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\tapable\\lib\\Hook.js:18:14)\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\webpack\\lib\\Compiler.js:1006:27\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\neo-async\\async.js:2818:7\n    at done (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\neo-async\\async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\webpack\\lib\\Compiler.js:835:33\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\graceful-fs\\graceful-fs.js:143:16\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\graceful-fs\\graceful-fs.js:61:14\n    at FSReqCallback.oncomplete (node:fs:188:23)"
+      "message": "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  ss-1920x1080.jpg (379 KiB)\n  ss-750x1334.jpg (290 KiB)",
+      "stack": "AssetsOverSizeLimitWarning: asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  ss-1920x1080.jpg (379 KiB)\n  ss-750x1334.jpg (290 KiB)\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\webpack\\lib\\performance\\SizeLimitsPlugin.js:145:7\n    at Hook.eval [as callAsync] (eval at create (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\tapable\\lib\\Hook.js:18:14)\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\webpack\\lib\\Compiler.js:1006:27\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\neo-async\\async.js:2818:7\n    at done (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\neo-async\\async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\tapable\\lib\\HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\webpack\\lib\\Compiler.js:835:33\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\graceful-fs\\graceful-fs.js:143:16\n    at C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\graceful-fs\\graceful-fs.js:61:14\n    at FSReqCallback.oncomplete (node:fs:188:23)"
     },
     {
       "message": "entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.\nEntrypoints:\n  app (426 KiB)\n      app~49ea73a0.bundle.js\n      app~71c0e426.bundle.js\n      app~a7527d50.bundle.js\n      app~9fde37ce.bundle.js\n      app~2169f7db.bundle.js\n      app~573a6517.bundle.js\n      app~c673db3e.bundle.js\n      app~b6ab853d.bundle.js\n      app~065b194a.bundle.js\n      app~204074b0.bundle.js\n      app~237d19e6.bundle.js\n      app~bc85f0ca.bundle.js\n      app~8f54dbf9.bundle.js\n      app~a5a596c2.bundle.js\n      app~759c4a18.bundle.js\n      app~726e1b4d.bundle.js\n      app~726e1b4d.ea79e1ca539bf53b9f63.css\n",
@@ -13626,8 +13626,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "f2b4bcf8f765b2dd0e7b",
       "version": "5.98.0",
-      "time": 75,
-      "builtAt": 1750053061524,
+      "time": 90,
+      "builtAt": 1750053198048,
       "publicPath": "",
       "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
       "assetsByChunkName": {},
