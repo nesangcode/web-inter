@@ -1,8 +1,8 @@
 {
   "hash": "2a354d4d02992d0c3e12",
   "version": "5.98.0",
-  "time": 5756,
-  "builtAt": 1750060410099,
+  "time": 5762,
+  "builtAt": 1750060680962,
   "publicPath": "auto",
   "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
   "assetsByChunkName": {
@@ -1447,14 +1447,15 @@
     },
     {
       "type": "asset",
-      "name": "service-worker.js.map",
-      "size": 12059,
+      "name": "apple-touch-icon.png",
+      "size": 11991,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
-        "minimized": true,
-        "size": 12059
+        "copied": true,
+        "sourceFilename": "src/public/apple-touch-icon.png",
+        "size": 11991
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1467,15 +1468,14 @@
     },
     {
       "type": "asset",
-      "name": "apple-touch-icon.png",
-      "size": 11991,
+      "name": "service-worker.js.map",
+      "size": 11954,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
-        "copied": true,
-        "sourceFilename": "src/public/apple-touch-icon.png",
-        "size": 11991
+        "minimized": true,
+        "size": 11954
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1510,13 +1510,13 @@
     {
       "type": "asset",
       "name": "service-worker.js",
-      "size": 5299,
+      "size": 5254,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "minimized": true,
-        "size": 5299
+        "size": 5254
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1549,14 +1549,14 @@
     {
       "type": "asset",
       "name": "404.html",
-      "size": 3081,
+      "size": 3090,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "copied": true,
         "sourceFilename": "src/public/404.html",
-        "size": 3081
+        "size": 3090
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -2889,8 +2889,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AppPresenter.js",
-          "issuerName": "./src/scripts/presenters/AppPresenter.js",
+          "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\utils\\push-notifications.js",
+          "issuerName": "./src/scripts/utils/push-notifications.js",
           "issuerPath": [
             {
               "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\index.js",
@@ -2898,16 +2898,16 @@
               "id": 589
             },
             {
-              "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AppPresenter.js",
-              "name": "./src/scripts/presenters/AppPresenter.js",
-              "id": 98
+              "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\utils\\push-notifications.js",
+              "name": "./src/scripts/utils/push-notifications.js",
+              "id": 458
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 922,
-          "issuerId": 98,
+          "issuerId": 458,
           "chunks": [
             324
           ],
@@ -4242,8 +4242,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddStoryPresenter.js",
-          "issuerName": "./src/scripts/presenters/AddStoryPresenter.js",
+          "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddGuestStoryPresenter.js",
+          "issuerName": "./src/scripts/presenters/AddGuestStoryPresenter.js",
           "issuerPath": [
             {
               "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\index.js",
@@ -4261,16 +4261,16 @@
               "id": null
             },
             {
-              "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddStoryPresenter.js",
-              "name": "./src/scripts/presenters/AddStoryPresenter.js",
-              "id": 299
+              "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddGuestStoryPresenter.js",
+              "name": "./src/scripts/presenters/AddGuestStoryPresenter.js",
+              "id": 421
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 216,
-          "issuerId": 299,
+          "issuerId": 421,
           "chunks": [
             450
           ],
@@ -8861,8 +8861,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AppPresenter.js",
-      "issuerName": "./src/scripts/presenters/AppPresenter.js",
+      "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\utils\\push-notifications.js",
+      "issuerName": "./src/scripts/utils/push-notifications.js",
       "issuerPath": [
         {
           "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\index.js",
@@ -8870,16 +8870,16 @@
           "id": 589
         },
         {
-          "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AppPresenter.js",
-          "name": "./src/scripts/presenters/AppPresenter.js",
-          "id": 98
+          "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\utils\\push-notifications.js",
+          "name": "./src/scripts/utils/push-notifications.js",
+          "id": 458
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 922,
-      "issuerId": 98,
+      "issuerId": 458,
       "chunks": [
         324
       ],
@@ -12511,8 +12511,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddStoryPresenter.js",
-      "issuerName": "./src/scripts/presenters/AddStoryPresenter.js",
+      "issuer": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddGuestStoryPresenter.js",
+      "issuerName": "./src/scripts/presenters/AddGuestStoryPresenter.js",
       "issuerPath": [
         {
           "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\index.js",
@@ -12530,16 +12530,16 @@
           "id": null
         },
         {
-          "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddStoryPresenter.js",
-          "name": "./src/scripts/presenters/AddStoryPresenter.js",
-          "id": 299
+          "identifier": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use!C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\src\\scripts\\presenters\\AddGuestStoryPresenter.js",
+          "name": "./src/scripts/presenters/AddGuestStoryPresenter.js",
+          "id": 421
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 216,
-      "issuerId": 299,
+      "issuerId": 421,
       "chunks": [
         450
       ],
@@ -13669,8 +13669,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "f2b4bcf8f765b2dd0e7b",
       "version": "5.98.0",
-      "time": 70,
-      "builtAt": 1750060404441,
+      "time": 78,
+      "builtAt": 1750060675309,
       "publicPath": "",
       "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
       "assetsByChunkName": {},
