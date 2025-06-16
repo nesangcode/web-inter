@@ -1,8 +1,8 @@
 {
   "hash": "25e98569baf423035026",
   "version": "5.98.0",
-  "time": 6659,
-  "builtAt": 1750053204587,
+  "time": 6425,
+  "builtAt": 1750053701081,
   "publicPath": "/web-inter/",
   "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
   "assetsByChunkName": {
@@ -1549,14 +1549,14 @@
     {
       "type": "asset",
       "name": "manifest.json",
-      "size": 1406,
+      "size": 1409,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "copied": true,
         "sourceFilename": "src/public/manifest.json",
-        "size": 1406
+        "size": 1409
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -13626,8 +13626,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "f2b4bcf8f765b2dd0e7b",
       "version": "5.98.0",
-      "time": 90,
-      "builtAt": 1750053198048,
+      "time": 77,
+      "builtAt": 1750053694765,
       "publicPath": "",
       "outputPath": "C:\\Users\\vanes\\Downloads\\starter-project-with-webpack\\starter-project-with-webpack\\dist",
       "assetsByChunkName": {},

@@ -13,13 +13,13 @@
       "src": "/web-inter/web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any"
     },
     {
       "src": "/web-inter/web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any"
     }
   ],
   "categories": ["education", "social"],
@@ -30,12 +30,12 @@
       "name": "Tambah Story",
       "short_name": "Add Story",
       "description": "Tambah story baru",
-      "url": "/#/add-story",
+      "url": "/web-inter/#/add-story",
       "icons": [
         {
           "src": "web-app-manifest-192x192.png",
           "sizes": "192x192",
-          "type": "image/jpeg"
+          "type": "image/png"
         }
       ]
     }
@@ -49,7 +49,7 @@
       "label": "Desktop view of Dicoding Stories"
     },
     {
-      "src": "favicon.jpg",
+      "src": "ss-750x1334.jpg",
       "sizes": "750x1334",
       "type": "image/jpeg",
       "form_factor": "narrow",
